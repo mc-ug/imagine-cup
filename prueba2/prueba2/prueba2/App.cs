@@ -13,7 +13,7 @@ namespace prueba2
         {
             MainPage = new NavigationPage(new Homepage());
         }
-
+        //Camacho puto
         protected override void OnStart()
         {
             // Handle when your app starts
